@@ -321,7 +321,7 @@ header .banner .banner_text {
 
 .skills {
   display: flex;
-  justify-content: space-between;
+  
   overflow: hidden;
   margin-top: 20px;
   width: 100%;
@@ -375,6 +375,7 @@ header .banner .banner_text {
 .skills .last {
   flex-direction: row;
   width: 100%;
+  display: flex;
 }
 
 .skills .last img {
